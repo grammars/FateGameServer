@@ -1,0 +1,3 @@
+id┼技能名┼Path飞行特效┼Path飞行每格耗时┼Path最大作用次数┼Path停飞作用次数┼Path作用特效┼endl
+3000┼蛇咬┼arrow_F┼800┼99┼1┼poisonPoint┼0
+3001┼火箭弹┼fireLine_F┼500┼99┼99┼occult┼0
